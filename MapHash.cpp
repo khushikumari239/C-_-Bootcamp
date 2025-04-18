@@ -18,6 +18,12 @@ int main(){
         mpp[arr[i]] ++;
     }
 
+     // Iterate the mapp auto:it
+     for(auto it : mpp ) {
+        cout<<it.first<< "->" <<it.second << endl;
+    }
+
+
     int q;
     cin>>q;
 
@@ -28,6 +34,7 @@ int main(){
         //FETCH STEP 2
 
         cout<<mpp[number] << endl;
+        
 
 
 

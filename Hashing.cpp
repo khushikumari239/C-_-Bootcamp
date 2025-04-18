@@ -27,6 +27,7 @@ int main () {
         hash[arr[i]] +=1;
     }
 
+   
 
 
     // now i will go with "q " which is no. of queries i will work on
