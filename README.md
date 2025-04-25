@@ -25,3 +25,8 @@
 
 </body>
 </html>
+
+<br> Leetcode 1838 Handwritten notes 
+
+![WhatsApp Image 2025-04-25 at 18 59 49_4cfd248c](https://github.com/user-attachments/assets/b6560fbc-3f91-41df-bb03-b4b9d4134849)
+
